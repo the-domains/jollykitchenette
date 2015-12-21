@@ -1,0 +1,28 @@
+name: JollyKitchenette
+favicon: null
+layout_spectrum: 0.7594280103221536
+typography_spectrum: 0.8998328093439341
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.733146779704839
+  lightness: 0.9005378286819905
+  saturation: 0.5517184974160045
+  rhythmicContrast: 0.6851312934886664
+purpose: []
